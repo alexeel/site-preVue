@@ -1,4 +1,4 @@
-# my-site
+# Site-preview on Vue.js
 
 ## Project setup
 ```
